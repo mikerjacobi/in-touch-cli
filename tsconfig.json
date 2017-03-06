@@ -6,6 +6,11 @@
     },
     "files": [
         "./src/store.js",
+        "./src/utils.js",
+        "./src/components/friend.js",
+        "./src/components/login.js",
+        "./src/controllers/friend.js",
+        "./src/controllers/login.js",
         "./src/components/index.js"
     ]
 }
